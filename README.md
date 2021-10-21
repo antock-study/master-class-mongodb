@@ -16,7 +16,7 @@
 
 ---
 
-### Chapter 1. 몽고 쿼리 aggregation
+### Chapter 1. 몽고 쿼리 Aggregation
 상세 목록은 추후 기재 예정입니다.
 ### Chapter 2. 몽고 쿼리 Map-reduce
 
