@@ -21,7 +21,30 @@
 ---
 
 ### Chapter 1. 몽고 쿼리 Aggregation
-상세 목록은 추후 기재 예정입니다.
+- $addFields
+- $replaceRoot
+- $match
+- $skip
+- $out
+- $sample
+- $sort
+- $count
+- $geoNear
+- $lookup
+- $facet
+- $bucket
+- $bucketAuto
+- $sortByCount
+- $graphLookup
+- $collStats
+- $indexStats
+- $merge
+- $redact
+- $replaceWith
+- $unionWith
+- $set, $unset
+
+
 ### Chapter 2. 몽고 쿼리 Map-reduce
 
 
