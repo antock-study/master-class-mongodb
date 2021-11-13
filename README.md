@@ -21,28 +21,17 @@
 ---
 
 ### Chapter 1. 몽고 쿼리 Aggregation
-- $addFields
-- $replaceRoot
-- $match
-- $skip
-- $out
-- $sample
-- $sort
-- $count
-- $geoNear
-- $lookup
-- $facet
-- $bucket
-- $bucketAuto
-- $sortByCount
-- $graphLookup
-- $collStats
-- $indexStats
-- $merge
-- $redact
-- $replaceWith
-- $unionWith
-- $set, $unset
+- 4주차 >  $addFields, $replaceRoot
+- 5주차 >  $match, $skip
+- 6주차 >  $out, $sample
+- 7주차 >  $sort, $count
+- 8주차 >  $lookup, $facet
+- 9주차 >   $set, $unset
+- 10주차 >  $bucket, $bucketAuto
+- 11주차 >  $sortByCount, $graphLookup
+- 12주차 >  $collStats, $indexStats
+- 13주차 >  $merge, $redact
+- 14주차 >  $replaceWith, $unionWith
 
 
 ### Chapter 2. 몽고 쿼리 Map-reduce
